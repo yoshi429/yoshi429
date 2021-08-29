@@ -2,6 +2,7 @@
 
 ## レポジトリー
 
+[sns型のクイズの投稿サイト](https://github.com/yoshi429/quiz_project)
 <!--
 **yoshi429/yoshi429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
