@@ -4,9 +4,9 @@
 
 [sns型のクイズの投稿サイト](https://github.com/yoshi429/quiz_project)-クイズで学ぶをコンセプトにしたクイズの投稿サイト (Django)
 
-[CoNNeCTo3](https://github.com/yoshi429/Tornado2021)-ハッカソンで初めてグループ開発したお年寄り、障害者、ペットをターゲットにしたSNS型旅行プランアプリ(Flask)
+[CoNNeCTo3](https://github.com/yoshi429/Tornado2021)-ハッカソンで初めてグループ開発したお年寄り、障害者、ペットをターゲットにしたSNS型旅行プランアプリ (Flask)
 
-[ニュースの管理サイト](https://github.com/yoshi429/Scraping-News)-スクレイピングを利用したニュースの管理サイト(Flask app in Django)
+[ニュースの管理サイト](https://github.com/yoshi429/Scraping-News)-スクレイピングを利用したニュースの管理サイト (Flask app in Django)
 <!--
 **yoshi429/yoshi429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
