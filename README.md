@@ -2,7 +2,7 @@
 
 ### レポジトリ
 
-[sns型のクイズの投稿サイト](https://github.com/yoshi429/quiz_project)-クイズで学ぶをコンセプトにしたクイズの投稿サイト (Django)
+[sns型のクイズの投稿サイト](https://github.com/yoshi429/quiz_project)-クイズで学ぶをコンセプトにしたクイズの投稿サイト (Django, AMAZON S3)
 
 [CoNNeCTo3](https://github.com/yoshi429/Tornado2021)-ハッカソンで初めてグループ開発したお年寄り、障害者、ペットをターゲットにしたSNS型旅行プランアプリ (Flask, Amazon S3)
 
